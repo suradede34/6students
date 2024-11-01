@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  padding: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  margin-bottom: 40px;
+}
+
+.students-section {
+  display: flex;
+  margin-left: 248px;
+}
+
+.female-students, .male-students {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+.female-students{
+  margin-right: 20px;
+}
+
+h2 {
+  color: #FF69B4;
+}
+
+.male-students h2 {
+  color: #1E90FF;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  text-align: left;
+}
+
+
+
